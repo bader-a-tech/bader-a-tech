@@ -17,15 +17,6 @@ I build web software for regulated industries, plus network security tooling in 
 | **[Aldoseri.dev](https://aldoseri.dev)** | Portfolio with a terminal style interface, a scroll drawn git graph, and live CLI demos of my own products. | React 19, TanStack Start, Cloudflare Workers |
 | **International Freight App** | Freight and quoting sites for multiple markets (100+ countries), with a customer portal and an ERP integration path. | HTML, CSS, JavaScript, Supabase |
 
-## 📦 Scale the graph cannot see
-
-Most of my work lives in private repos, so the cards below undercount it considerably.
-
-- 376 commits and 113 versioned SQL migrations in BaseClinical, roughly 3.5 MB of TypeScript sitting on 780 KB of PL/pgSQL
-- Row level security on every table, plus a hash chained audit log so tampering breaks the chain
-- No ORM anywhere: hand written SQL, with `SECURITY DEFINER` functions where a policy cannot express the rule
-- A hand written TLS ClientHello parser in tracehound, with GREASE stripping and fragmented handshake reassembly
-
 # 🌐 Socials:
 [![Website](https://img.shields.io/badge/aldoseri.dev-1F6FEB?style=for-the-badge&logo=safari&logoColor=white)](https://aldoseri.dev)
 
