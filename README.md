@@ -15,7 +15,7 @@ I build web software for regulated industries, plus network security tooling in 
 | **[TraceHound](https://github.com/bader-a-tech/tracehound)** | Passive network sensor. Assembles bidirectional flows from a pcap or a live interface, fingerprints TLS clients with JA4, and maps seven detectors to MITRE ATT&CK: C2 beaconing, DNS tunnelling, port scans, host sweeps, exfiltration, new devices, rare TLS stacks. Every alert carries the numbers that produced it. One static binary, no cgo, no libpcap. | Go |
 | **[BaseClinical](https://baseclinical.com.au)** | Practice platform for cosmetic clinics. Bookings, treatment plans, consent, quotes, campaigns, admin controlled feature access, tamper evident audit log. | Next.js, React, Supabase, Postgres, Cloudflare |
 | **[Aldoseri.dev](https://aldoseri.dev)** | Portfolio with a terminal style interface, a scroll drawn git graph, and live CLI demos of my own products. | React 19, TanStack Start, Cloudflare Workers |
-| **International Freight App** | Freight and quoting sites for multiple markets (100+ countries), with a customer portal and an ERP integration path. | HTML, CSS, JavaScript, Supabase |
+| **International Freight Platform** | Freight and quoting sites for multiple markets (100+ countries), with a customer portal and an ERP integration path. | HTML, CSS, JavaScript, Supabase |
 
 # 🌐 Socials:
 [![Website](https://img.shields.io/badge/aldoseri.dev-1F6FEB?style=for-the-badge&logo=safari&logoColor=white)](https://aldoseri.dev)
